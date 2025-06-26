@@ -10,7 +10,9 @@ This is a simple Python web scraper that fetches top news headlines from the BBC
 
 ## File Structure
 ├── scraper.py # The main Python script
+
 ├── README.md # Project documentation
+
 ├── headlines.txt # Output file created after running the script
 
 ## How to Run
